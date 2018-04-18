@@ -2,3 +2,4 @@
 なんか書いとけ
 ・git add
 ・git commit
+・git remove
